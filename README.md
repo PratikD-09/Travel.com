@@ -19,3 +19,5 @@ A simple and elegant web interface for a tour and travel service. This project d
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/yourusername/tour-travel-website.git  
+**Created by Pratik Dhandare**  
+📧 [pratik.dhandare09@gmail.com](mailto:pratik.dhandare09@gmail.com)  
